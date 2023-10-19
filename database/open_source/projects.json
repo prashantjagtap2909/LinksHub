@@ -166,6 +166,13 @@
     "url": "https://github.com/TheTorProject",
     "category": "open-source",
     "subcategory": "projects"
+  },
+  {
+    "name": "Connecting",
+    "description": "The platform for connecting with Github users.",
+    "url": "https://github.com/prashantjagtap2909/Connecting",
+    "category": "open-source",
+    "subcategory": "projects"
   }
 ]
 
